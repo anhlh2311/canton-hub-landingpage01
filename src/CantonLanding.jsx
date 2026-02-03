@@ -373,7 +373,7 @@ export default function CantonLanding() {
                   Talk to Our Team
                 </a>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOigsGa_RLwLoGNZivrv1vZQkulVjueRyPYNStGVDRMUp-4A/viewform?pli=1" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 rounded-xl bg-white/20 border border-black/20 text-black font-semibold text-base sm:text-lg hover:bg-white/30 transition-colors flex items-center justify-center gap-3">
-                  Integrate with Kairo
+                  Integrate with our DEX
                   <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5" />
                 </a>
               </div>
